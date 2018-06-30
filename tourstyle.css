@@ -18,3 +18,10 @@ a:hover {
 .round {
     border-radius: 50%;
 }
+
+body{
+	font-family: "Poppins";
+	text-align: left;
+	background: #D1D0CE;
+}
+
